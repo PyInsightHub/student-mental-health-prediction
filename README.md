@@ -1,4 +1,6 @@
-# 📊 Student Mental Health Prediction & Digital Habits Analysis
+![image alt](https://github.com/PyInsightHub/student-mental-health-prediction/blob/bcaf95ead3b17b7c5380250b5ba6587fb05f4c69/student-mental-health-banner.png)
+
+>An end-to-end data science project analyzing the impact of daily digital habits (social media exposure and generative AI tool usage) and lifestyle markers (sleep duration and physical exercise) on the mental and physical well-being of **16,000 students**.
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -6,7 +8,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An end-to-end data science project analyzing the impact of daily digital habits (social media exposure and generative AI tool usage) and lifestyle markers (sleep duration and physical exercise) on the mental and physical well-being of **16,000 students**.
+
 
 ---
 
